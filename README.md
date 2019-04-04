@@ -2,10 +2,10 @@
 
 ## INSTRUÇÕES:
 
-1- Baixar ou clonar o repositório em sua máquina
-2- Executar o programa ANDROID.STUDIO
-3- Selecionar/abrir a pasta deste projeto 
-4- Rodar o projeto
+### 1 - Baixar ou clonar o repositório em sua máquina
+### 2 - Executar o programa ANDROID.STUDIO
+### 3 - Selecionar/abrir a pasta deste projeto 
+### 4 - Rodar o projeto
 
 ## CONSIDERAÇÕES:
 
